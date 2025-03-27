@@ -89,8 +89,8 @@ Special thanks to **Dr. Sean Froudist-Walsh** (University of Bristol) for invalu
 
 ---
 
-## 📄 License
+## 📩 Contact
 
-This repository is part of an MSc dissertation and is shared for academic and research purposes. Contact the author for any collaboration or extended usage.
+Feel free to raise an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/tanmaysagarhuria/) if you have questions or would like to collaborate!
 
 ---
