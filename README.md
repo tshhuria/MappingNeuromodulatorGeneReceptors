@@ -94,9 +94,3 @@ Special thanks to **Dr. Sean Froudist-Walsh** (University of Bristol) for invalu
 This repository is part of an MSc dissertation and is shared for academic and research purposes. Contact the author for any collaboration or extended usage.
 
 ---
-
-## 🔗 Citation
-
-If you use this repository or ideas from this research, please cite:
-
-**Tanmay Sagar Huria** (2025). *Mapping Neuromodulator Receptor Genes Across Neuronal Cell Subclasses, Cell Classes, and Brain Regions.* MSc Data Science Dissertation, University of Bristol.
